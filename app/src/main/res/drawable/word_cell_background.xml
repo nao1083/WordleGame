@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Cambiar el fondo a blanco -->
+    <solid android:color="#FFFFFF" /> <!-- Fondo blanco para las celdas -->
+    <corners android:radius="3dp"/> <!-- Bordes redondeados -->
+    <stroke android:width="2dp" android:color="#D3D3D3" /> <!-- Borde gris claro -->
+</shape>
